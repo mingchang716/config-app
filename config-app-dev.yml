@@ -3,5 +3,4 @@ spring:
   application:
     name: config-app
   profiles: dev
-lucky-word:
-  :love-you
+lucky-word: love-you
