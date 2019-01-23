@@ -1,7 +1,7 @@
 ---
 spring:
-#   application:
-#     name: config-app
+  application:
+    name: config-app
   profiles: dev
 lucky-word:
   :Irish
