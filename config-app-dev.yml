@@ -4,4 +4,4 @@ spring:
     name: config-app
   profiles: dev
 lucky-word:
-  :Irish
+  :love-you
